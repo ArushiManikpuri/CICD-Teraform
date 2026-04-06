@@ -3,5 +3,5 @@ variable "sn" {
 }
 
 variable "sg" {
-    
+
 }
